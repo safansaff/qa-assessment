@@ -1,2 +1,39 @@
-# qa-assessment
-This repo contains the assessment for QA Automation Engineer candidates. Focus: creating automated test scenarios for the Privilee website and demonstrating QA automation principles.
+# QA Engineer Assessment - Privilee Website (Automation Focus)
+
+## Overview
+This assessment evaluates your QA engineering skills, with a focus on test automation, using the Privilee website as a case study. You'll be asked to develop automated test scenarios and answer key questions about QA practices and automation.
+
+## Instructions
+1. Review the following webpage https://staging-website.privilee.ae/map.
+2. Develop a set of automated test scenarios for the main features visible in the page.
+3. Submit your assesment in another git repository, where the tests can be run and the results artifacts are generated.
+
+## Tasks
+
+### 1. Automated Test Scenario Development
+Create at least 5 automated test scenarios covering different aspects of the website, including but not limited to:
+- Functionality
+- User Interface
+- Map Integration
+- Performance
+- Data Accuracy
+
+For each scenario, briefly describe:
+- The feature being tested
+- Expected outcome
+- Any setup or teardown procedures necessary for automation
+- Why you think this test is important
+
+## Evaluation Criteria
+Your submission will be evaluated based on:
+- Thoroughness and relevance of automated test scenarios
+- Understanding of QA principles and test automation best practices
+- Clarity and conciseness of explanations
+- Ability to identify potential issues and edge cases suitable for automation
+- Creative problem-solving approaches in an automated testing context
+- Knowledge of automation tools and frameworks
+
+## Submission
+Please submit your completed assessment within <s>XXX DAYS?</s>. If you have any questions, contact ry@privilee.ae.
+
+Good luck!
