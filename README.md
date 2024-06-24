@@ -6,7 +6,7 @@ This assessment evaluates your QA engineering skills, with a focus on test autom
 ## Instructions
 1. Review the following webpage https://staging-website.privilee.ae/map.
 2. Develop a set of automated test scenarios for the main features visible in the page.
-3. Submit your assesment in another git repository, where the tests can be run and the results artifacts are generated.
+3. Submit your assesment in another git repository, where the tests can be run and the result artifacts are generated.
 
 ## Tasks
 
