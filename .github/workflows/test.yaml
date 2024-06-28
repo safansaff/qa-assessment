@@ -14,6 +14,9 @@ jobs:
     runs-on: ubuntu-22.04
     name: Run tests
     steps:
+      name: Checkout
+      - uses: actions/checkout@v3
+      name: Run tests
       - run: newman run ../collections/collection.json
 
   deploy:
