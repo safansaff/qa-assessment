@@ -1,0 +1,15 @@
+name: Tests
+
+on:
+  push:
+
+jobs:
+  Build:
+    name: Build application
+    run: echo build application
+  test:
+    name: Run tests
+    run: newman run ./collections/collection.json
+  deploy:
+    name: Deploy application
+    run: echo deploy
