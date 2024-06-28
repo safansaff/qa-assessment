@@ -6,10 +6,18 @@ on:
 jobs:
   Build:
     name: Build application
-    run: echo build application
+    steps:
+      - uses: actions/checkout@v3
+        run: echo build application
+
   test:
     name: Run tests
-    run: newman run ./collections/collection.json
+    steps:
+      - uses: actions/checkout@v3
+        run: newman run ./collections/collection.json
+
   deploy:
     name: Deploy application
-    run: echo deploy
+    steps:
+      - uses: actions/checkout@v3
+        run: echo deploy
