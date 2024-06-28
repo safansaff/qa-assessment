@@ -31,6 +31,7 @@ Giving an API, create automated tests to validate the different endpoints availa
 - /api/users
 - /api/pokemon
 - /api/products
+You can use newman to create the collection and update the file located in `./collections`. In case you prefer to use another tools, please update the github workflow.
 
 ## Evaluation Criteria
 Your submission will be evaluated based on:
