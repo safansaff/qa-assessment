@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-22.04
     name: Run tests
     steps:
-      - run: newman run ./collections/collection.json
+      - run: newman run ../collections/collection.json
 
   deploy:
     runs-on: ubuntu-22.04
