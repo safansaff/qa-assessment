@@ -5,16 +5,19 @@ on:
 
 jobs:
   Build:
+    runs-on: ubuntu-22.04
     name: Build application
     steps:
       - run: echo build application
 
   test:
+    runs-on: ubuntu-22.04
     name: Run tests
     steps:
       - run: newman run ./collections/collection.json
 
   deploy:
+    runs-on: ubuntu-22.04
     name: Deploy application
     steps:
       - run: echo deploy
