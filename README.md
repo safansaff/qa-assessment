@@ -24,6 +24,15 @@ For each scenario, briefly describe:
 - Any setup or teardown procedures necessary for automation
 - Why you think this test is important
 
+### 2. API
+Giving an API, create automated tests to validate the different endpoints available at https://dummyapi.online/
+- /api/movies
+- /api/blogposts
+- /api/users
+- /api/pokemon
+- /api/products
+You can use newman to create the collection and update the file located in `./collections`. In case you prefer to use another tools, please update the github workflow.
+
 ## Evaluation Criteria
 Your submission will be evaluated based on:
 - Thoroughness and relevance of automated test scenarios
