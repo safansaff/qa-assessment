@@ -7,14 +7,14 @@ jobs:
   Build:
     name: Build application
     steps:
-      run: echo build application
+      - run: echo build application
 
   test:
     name: Run tests
     steps:
-      run: newman run ./collections/collection.json
+      - run: newman run ./collections/collection.json
 
   deploy:
     name: Deploy application
     steps:
-      run: echo deploy
+      - run: echo deploy
