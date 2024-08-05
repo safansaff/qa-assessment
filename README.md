@@ -43,6 +43,6 @@ Your submission will be evaluated based on:
 - Knowledge of automation tools and frameworks
 
 ## Submission
-Please submit your completed assessment within <s>XXX DAYS?</s>. If you have any questions, contact ry@privilee.ae.
+Please submit your completed assessment within 2 days. If you have any questions, contact ry@privilee.ae.
 
 Good luck!
