@@ -6,7 +6,7 @@ This assessment evaluates your QA engineering skills, with a focus on test autom
 ## Instructions
 1. Review the following webpage https://staging-website.privilee.ae/map.
 2. Develop a set of automated test scenarios for the main features visible in the page.
-3. Submit your assesment in another git repository, where the tests can be run and the result artifacts are generated.
+3. Submit your assessment in another git repository, where the tests can be run and the result artifacts are generated.
 
 ## Tasks
 
@@ -14,7 +14,6 @@ This assessment evaluates your QA engineering skills, with a focus on test autom
 Create at least 5 automated test scenarios covering different aspects of the website, including but not limited to:
 - Functionality
 - User Interface
-- Map Integration
 - Performance
 - Data Accuracy
 
@@ -43,6 +42,6 @@ Your submission will be evaluated based on:
 - Knowledge of automation tools and frameworks
 
 ## Submission
-Please submit your completed assessment within 2 days. If you have any questions, contact ry@privilee.ae.
+Please submit your completed assessment within 2 days. If you have any questions, contact aas@privilee.ae.
 
 Good luck!
