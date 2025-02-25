@@ -24,12 +24,11 @@ For each scenario, briefly describe:
 - Why you think this test is important
 
 ### 2. API
-Giving an API, create automated tests to validate the different endpoints available at https://dummyapi.online/
-- /api/movies
-- /api/blogposts
-- /api/users
-- /api/pokemon
-- /api/products
+Giving an API, create automated tests to validate the different endpoints available at [https://dummyapi.online/](https://gorest.co.in/)
+- /public/v2/users
+- /public/v2/posts
+- /public/v2/users/7373665/posts
+- /public/v2/todos
 You can use newman to create the collection and update the file located in `./collections`. In case you prefer to use another tools, please update the github workflow.
 
 ## Evaluation Criteria
