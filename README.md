@@ -24,7 +24,7 @@ For each scenario, briefly describe:
 - Why you think this test is important
 
 ### 2. API
-Giving an API, create automated tests to validate the different endpoints available at [https://dummyapi.online/](https://gorest.co.in/)
+Giving an API, create automated tests to validate the different endpoints available at https://gorest.co.in/
 - /public/v2/users
 - /public/v2/posts
 - /public/v2/users/7373665/posts
